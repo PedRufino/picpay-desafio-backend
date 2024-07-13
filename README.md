@@ -1,8 +1,6 @@
 ## Objetivo: PicPay Simplificado
 
-O PicPay Simplificado é uma plataforma de pagamentos simplificada. Nela é possível depositar e realizar transferências
-de dinheiro entre usuários. Temos 2 tipos de usuários, os comuns e lojistas, ambos têm carteira com dinheiro e realizam
-transferências entre eles.
+No PicPay Desafio Backend, você deve criar uma plataforma de pagamentos simplificada. Nela, deve ser possível cadastrar usuários, depositar e realizar transferências de dinheiro entre usuários. Além disso, deve haver dois tipos de usuários: comuns e lojistas. Ambos possuem uma carteira com dinheiro e podem realizar transferências entre si.
 
 ### Requisitos
 
